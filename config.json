@@ -1,4 +1,4 @@
 {
-    "token": token.getenv.autoken,
+    "token": github.repository.env.token.autoken,
     "prefix": ">"
 }
